@@ -2,7 +2,7 @@
 - 👀 I’m interested in Building Stuff and Creating Impact
 - 🌱 I’m currently learning Front-End Development
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me talktoibinao@gmail.com
+- 📫 How to reach me talktoibinabo@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When I'm not learning, Coding Or Designing, I'm helping people through Volunteering
 
